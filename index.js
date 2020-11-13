@@ -5,14 +5,14 @@ class Circle {
   }
 
   get diameter() {
-    
+
   }
 
   get circumference() {
-    
+
   }
 
   get area() {
-    
+
   }
 }
